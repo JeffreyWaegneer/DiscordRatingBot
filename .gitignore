@@ -416,3 +416,5 @@ FodyWeavers.xsd
 *.exe
 *.out
 *.app
+
+discord.config
